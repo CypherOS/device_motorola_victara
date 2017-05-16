@@ -1,0 +1,26 @@
+[
+  {
+    "repository":  "device_qcom_common",
+    "target_path": "device/qcom/common",
+	"branch":      "nougat-mr1",
+	"remote":      "aoscp"
+  },
+  {
+    "repository":  "kernel_motorola_msm8974",
+    "target_path": "kernel/motorola/msm8974",
+	"branch":      "nougat-mr1",
+	"remote":      "aoscp"
+  },
+  {
+    "repository":  "packages_resources_Translato",
+    "target_path": "packages/resources/Translato",
+	"branch":      "nougat-mr1",
+	"remote":      "aoscp"
+  },
+  {
+    "repository":  "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "remote":      "aoscp",
+    "branch":      "nougat-mr1"
+  }
+]
